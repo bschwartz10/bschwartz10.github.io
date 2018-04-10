@@ -650,6 +650,7 @@ section#contact :-ms-input-placeholder {
 }
 
 footer {
+  background-color: #f8f9fa !important;
   padding: 25px 0;
   text-align: center;
 }
